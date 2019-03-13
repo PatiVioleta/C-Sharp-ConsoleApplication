@@ -1,0 +1,24 @@
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+E:\Poze\FACULTATE\AN 2 2018-2019\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\viopo\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\pati\Desktop\univ\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\pati\Desktop\UNIV\SEM3\MAP\C# lab10\Lab10\Lab10\obj\Debug\Lab10.pdb
